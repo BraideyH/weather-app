@@ -20,19 +20,38 @@ header {
   border-width: 1px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
   color: hsl(206, 17%, 28%);
-  font-size: 18px;
+  font-size: 20px;
   margin: 20px auto;
   max-width: 800px;
   padding: 30px 30px 30px 30px;
   display: inline-flex;
+  height: 40rem;
 }
 #card-container {
-    text-align: center;
+    text-align: right;
     padding: 10px;
     margin: 2rem;
+    position: relative;
 }
 .card-title {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 25px;
     text-align: center;
+}
+#currentConditions {
+    padding: 10px; 
+    margin: 0 auto; 
+    text-align: center; 
+    width: fit-content; 
+    background-color: #f0f0f0;
+
+}
+#searchBox {
+    position: absolute; 
+    top: 163px; 
+    /* left: 20px;  */
+    width: 300px; 
+    background-color: #f0f0f0;
+    padding: 10px;
+    height: fit-content;
 }
