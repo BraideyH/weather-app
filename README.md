@@ -14,7 +14,7 @@ To run this site, the user must first open any internet browser and supply it wi
 
 To effectively use this application, one must first specify the required field and choose a city to search. Once this step is completed, the user may click the "Search" button. Once completed, the desired city's current weather conditions and the conditions of the next five days will be displayed.
 
-Live URL: 
+Live URL: https://braideyh.github.io/weather-app/
 
 
 ## Credits
